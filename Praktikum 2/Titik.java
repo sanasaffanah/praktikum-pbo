@@ -1,9 +1,9 @@
-/**
- *File	: Titik.java	23/02/23
- *Penulis	: Sana Saffanah
- *Deskripsi	: Kelas yang berisi Titik
- *
- */
+ //File		: Titik.java	
+ //Penulis	: Sana Saffanah
+ //NIM		: 24060121140143
+ //Tanggal	: 01/03/23
+ //Deskripsi	: Kelas yang berisi Titik
+
 
 class Titik{
 	double absis;
